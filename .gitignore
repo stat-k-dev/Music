@@ -1,0 +1,63 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.snupkg
+
+# Azure DevOps
+*.publishsettings
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.pch
+*.pdb
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Debug
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS
+IISExpress/
+
+# Entity Framework
+*.edmx.diagram
+
+# npm
+node_modules/
+
+# DotNet Core
+.publish/
+.env
+
+# Rider
+.idea/
